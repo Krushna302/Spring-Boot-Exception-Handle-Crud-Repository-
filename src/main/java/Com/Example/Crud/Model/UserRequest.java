@@ -3,7 +3,6 @@ package Com.Example.Crud.Model;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
-//hiii
 @Entity
 public class UserRequest {
 	
